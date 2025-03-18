@@ -1,9 +1,7 @@
 ## **Deskripsi Repository GitHub**  
 
-### **Nama Repository:**  
-**Pengolahan Nama dengan PHP**  
+### **Nama Repository:**  **Pengolahan Nama dengan PHP**  
 
-Deskripsi Singkat
 Repository ini berisi implementasi program **Pengolahan Nama** menggunakan **PHP**. Program ini memungkinkan pengguna untuk menghitung jumlah kata, jumlah huruf, membalikkan nama, serta menganalisis huruf vokal dan konsonan dalam nama yang dimasukkan.  
 
 ### **Fitur Utama**  
